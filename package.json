@@ -1,6 +1,6 @@
 {
   "name": "@BigPoro/eslint-config-monorepo",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "private": true,
   "packageManager": "pnpm@7.1.0",
   "author": "zz <751706806@qq.com> (https://github.com/BigPoro/)",
