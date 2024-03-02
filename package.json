@@ -1,20 +1,20 @@
 {
-  "name": "@holazz/eslint-config-monorepo",
-  "version": "1.4.9",
+  "name": "@BigPoro/eslint-config-monorepo",
+  "version": "1.5.0",
   "private": true,
   "packageManager": "pnpm@7.1.0",
-  "author": "zz <2418184580@qq.com> (https://github.com/holazz/)",
+  "author": "zz <751706806@qq.com> (https://github.com/BigPoro/)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/holazz/eslint-config.git"
+    "url": "git+https://github.com/BigPoro/eslint-config.git"
   },
   "scripts": {
     "lint": "eslint .",
     "release": "bumpp package.json packages/*/package.json --commit --push --tag"
   },
   "devDependencies": {
-    "@holazz/eslint-config": "*",
+    "@BigPoro/eslint-config": "*",
     "bumpp": "^9.2.0",
     "eslint": "^8.51.0",
     "prettier": "^3.0.3",

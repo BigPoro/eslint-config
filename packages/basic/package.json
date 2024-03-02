@@ -1,12 +1,12 @@
 {
-  "name": "@holazz/eslint-config-basic",
+  "name": "@BigPoro/eslint-config-basic",
   "version": "1.4.9",
   "description": "",
-  "author": "zz <2418184580@qq.com> (https://github.com/holazz/)",
+  "author": "zz <2418184580@qq.com> (https://github.com/BigPoro/)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/holazz/eslint-config.git",
+    "url": "git+https://github.com/BigPoro/eslint-config.git",
     "directory": "packages/basic"
   },
   "keywords": [],
