@@ -1,12 +1,12 @@
 {
-  "name": "@BigPoro/eslint-config-ts",
-  "version": "1.5.2",
+  "name": "@bigporo/eslint-config-ts",
+  "version": "1.5.3",
   "description": "",
-  "author": "zz <751706806@qq.com> (https://github.com/BigPoro/)",
+  "author": "zz <751706806@qq.com> (https://github.com/bigporo/)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BigPoro/eslint-config.git",
+    "url": "git+https://github.com/bigporo/eslint-config.git",
     "directory": "packages/typescript"
   },
   "keywords": [],
@@ -19,7 +19,7 @@
     "typescript": ">=3.9"
   },
   "dependencies": {
-    "@BigPoro/eslint-config-basic": "workspace:*",
+    "@bigporo/eslint-config-basic": "workspace:*",
     "@typescript-eslint/eslint-plugin": "^6.8.0",
     "@typescript-eslint/parser": "^6.8.0",
     "eslint-define-config": "^1.24.1"

@@ -1,12 +1,12 @@
 {
-  "name": "@BigPoro/eslint-config-vue",
-  "version": "1.5.2",
+  "name": "@bigporo/eslint-config-vue",
+  "version": "1.5.3",
   "description": "",
-  "author": "zz <2418184580@qq.com> (https://github.com/BigPoro/)",
+  "author": "zz <2418184580@qq.com> (https://github.com/bigporo/)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BigPoro/eslint-config.git",
+    "url": "git+https://github.com/bigporo/eslint-config.git",
     "directory": "packages/vue"
   },
   "keywords": [],
@@ -18,7 +18,7 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@BigPoro/eslint-config-ts": "workspace:*",
+    "@bigporo/eslint-config-ts": "workspace:*",
     "eslint-define-config": "^1.24.1",
     "eslint-plugin-vue": "^9.17.0",
     "local-pkg": "^0.5.0"
