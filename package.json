@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bigporo/eslint-config.git"
+    "url": "https://github.com/bigporo/eslint-config"
   },
   "scripts": {
     "lint": "eslint .",
