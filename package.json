@@ -1,13 +1,13 @@
 {
   "name": "@bigporo/eslint-config-monorepo",
-  "version": "1.5.4",
+  "version": "1.5.5",
   "private": true,
   "packageManager": "pnpm@7.1.0",
   "author": "zz <751706806@qq.com> (https://github.com/bigporo/)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bigporo/eslint-config.git"
+    "url": "https://github.com/bigporo/eslint-config.git"
   },
   "scripts": {
     "lint": "eslint .",
