@@ -1,12 +1,12 @@
 {
   "name": "@bigporo/eslint-config-prettier",
-  "version": "1.5.6",
+  "version": "1.5.7",
   "description": "",
   "author": "zz <2418184580@qq.com> (https://github.com/bigporo/)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bigporo/eslint-config.git",
+    "url": "https://github.com/bigporo/eslint-config.git",
     "directory": "packages/prettier"
   },
   "keywords": [],
